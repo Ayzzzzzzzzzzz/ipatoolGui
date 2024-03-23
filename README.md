@@ -4,7 +4,7 @@
 
 To use this Interface, you will need to have Ipatool installed and connected with a Icloud Account. 
 
-The Gui can be ran with `python3 /folder_to/IpaToolGui.py`or `python /folder_to/IpaToolGui.py`depending on your Python version. 
+The Gui can be run with `python3 /folder_to/IpaToolGui.py`or `python /folder_to/IpaToolGui.py`depending on your Python version. 
 
 This Interface is only tested on Macos and in a early stage. If you have Issues please create a Issue in the Issues tab. 
 
